@@ -1,0 +1,14 @@
+
+.componenteBoton {
+    height: 2em;
+    margin: 0.5em;
+    width: 4em;
+    border-radius: .3em;
+    background-color: lightgoldenrodyellow;
+};
+
+.componenteBoton:hover {
+
+    background-color: yellow;
+    transition: 0.5s;
+};
